@@ -1,0 +1,20 @@
+.nav>li>a {
+  padding: 15px 15px;
+}
+
+.headFoot {
+  background-color: #4563B8;
+  border-color: darkgray;
+}
+
+.nav-pills>li.active>a {
+  background-color: #736DCA;
+}
+
+.main{
+  color: #fff;
+  background-color: #4563B8;
+  background-image: url(/images/bg.png);
+  padding: 50px 0;
+  margin-top: 50px;
+}
